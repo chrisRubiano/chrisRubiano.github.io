@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristian Samaniego</title>
@@ -6,19 +6,39 @@
     <description>Recent content on Cristian Samaniego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Dec 2018 12:57:14 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 18:01:38 -0700</lastBuildDate>
     
 	<atom:link href="https://chrisrubiano.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Showcase</title>
+      <link>https://chrisrubiano.github.io/showcase/</link>
+      <pubDate>Sun, 03 Nov 2019 18:01:38 -0700</pubDate>
+      
+      <guid>https://chrisrubiano.github.io/showcase/</guid>
+      <description> TODO  Add photos from the keyboards I have made. Add photos from the arcade sticks that I have made. Add a few analog photos I have taken. Make new raspberry pi projects so I can have even more photos.  </description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://chrisrubiano.github.io/resume/</link>
+      <pubDate>Sun, 03 Nov 2019 18:01:04 -0700</pubDate>
+      
+      <guid>https://chrisrubiano.github.io/resume/</guid>
+      <description>A passionate full stack web developer and DIY enthusiast from Hermosillo, Sonora.
+Professional Experience  Soluciones Verdes | June 2019 - Today
+ Full Stack web development using Django, Docker and PostgreSQL. An online platform for web courses and student certification.  Ecloud Studio | January 2019 - June 2019
+ Android mobile development using Java and Kotlin. Patched a few issues from a legacy transport application and helped planning and designing mockups for a new version.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://chrisrubiano.github.io/about/</link>
-      <pubDate>Wed, 12 Dec 2018 12:57:14 -0700</pubDate>
+      <pubDate>Thu, 31 Oct 2019 12:57:14 -0700</pubDate>
       
       <guid>https://chrisrubiano.github.io/about/</guid>
-      <description>A passionate full stack web developer and DIY enthusiast from Hermosillo, Sonora. Feel free to check my projects on github:
- Pi garden - an automated garden using raspberry pi and sensors. A custom new tab for my browsers - forked from another project, yo can see it here. This blog - Using Hugo, a static site generator built using Go, with a custom theme.  shoot me an email: chris.</description>
+      <description>A passionate full stack web developer and DIY enthusiast from Hermosillo, Sonora.</description>
     </item>
     
   </channel>
