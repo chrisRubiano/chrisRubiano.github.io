@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristian Samaniego</title>
@@ -13,11 +13,11 @@
     
     <item>
       <title>My Custom New Tab Page</title>
-      <link>https://chrisrubiano.github.io/my-custom-new-tab-page/</link>
+      <link>https://chrisrubiano.github.io/posts/my-custom-new-tab-page/</link>
       <pubDate>Wed, 27 Nov 2019 16:22:22 -0700</pubDate>
       
-      <guid>https://chrisrubiano.github.io/my-custom-new-tab-page/</guid>
-      <description>Testing my first real hugo post aslkdlaksjhd lakjshlkjdhal skjdhlakjshdlk</description>
+      <guid>https://chrisrubiano.github.io/posts/my-custom-new-tab-page/</guid>
+      <description>Testing my first real hugo post </description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sun, 03 Nov 2019 18:01:38 -0700</pubDate>
       
       <guid>https://chrisrubiano.github.io/showcase/</guid>
-      <description> TODO  Add photos from the keyboards I have made. Add photos from the arcade sticks that I have made. Add a few analog photos I have taken. Make new raspberry pi projects so I can have even more photos.  </description>
+      <description>TODO  Add photos from the keyboards I have made. Add photos from the arcade sticks that I have made. Add a few analog photos I have taken. Make new raspberry pi projects so I can have even more photos.  </description>
     </item>
     
     <item>
@@ -37,8 +37,8 @@
       <guid>https://chrisrubiano.github.io/resume/</guid>
       <description>A passionate full stack web developer and DIY enthusiast from Hermosillo, Sonora.
 chris.rubiano42@gmail.com
-Professional Experience  Soluciones Verdes | June 2019 - Present
- Full Stack web development using Django, Docker and PostgreSQL. An online platform for web courses and student certification.  Ecloud Studio | January 2019 - June 2019
+ Professional Experience   Soluciones Verdes | June 2019 - Present
+ Full Stack web development using Django, Docker and PostgreSQL. An online platform for web courses and student certification.    Ecloud Studio | January 2019 - June 2019
  Android mobile development using Java and Kotlin. Patched a few issues from a legacy transport application and helped planning and designing mockups for a new version.</description>
     </item>
     
